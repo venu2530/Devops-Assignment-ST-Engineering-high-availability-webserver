@@ -1,4 +1,4 @@
-# Devops-Assignment-ST-Engineering-high-availability-webserver
+High-availability-webserver
 A minimal high-availability web server architecture typically consists of multiple components distributed across redundant infrastructure to ensure continuous availability and reliability. Here's an overview of such an architecture along with mechanisms to handle infrastructure failures:
 
 1. **Load Balancer**: 
